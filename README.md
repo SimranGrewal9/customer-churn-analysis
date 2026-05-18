@@ -1,12 +1,19 @@
-# Customer Churn Analysis
+# Customer Churn Analysis (EDA Project)
 
-This project is an Exploratory Data Analysis (EDA) of a telecom customer churn dataset.
+## Overview
+This project analyzes telecom customer churn using Python.
 
-## Steps:
+## Tools Used
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+
+## Steps
 - Data cleaning
 - Missing value analysis
-- Visualizations
-- Churn insights
+- Data visualization
+- Churn pattern analysis
 
-Tools used:
-Python, Pandas, Seaborn, Matplotlib
+## Goal
+To understand why customers leave the service.
