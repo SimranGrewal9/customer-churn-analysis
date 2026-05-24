@@ -29,5 +29,15 @@ This project analyzes telecom customer churn using Python.
 - Classification report generation
 - Comparison of model performance
 
+### Day 9–12: Insights & Reporting
+- Analysis of key churn factors using visualization
+- Contract type vs churn analysis
+- Monthly charges vs churn analysis
+- Tenure vs churn analysis
+- Internet service vs churn analysis
+- Identification of key churn patterns
+- Business insights generation
+- Recommendations for customer retention
+
 ## Goal
 To understand why customers leave the service and build machine learning models to predict customer churn.
